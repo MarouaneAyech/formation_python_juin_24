@@ -1,1 +1,1 @@
-# formation_python_juin_24
+# formation python juin 24
